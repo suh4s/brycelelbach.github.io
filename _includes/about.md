@@ -1,17 +1,16 @@
-hi. I am a software engineer currently open for remote contracts.
+I am Bryce Adelstein Lelbach, and this is my website.
 
-I enjoy talking about software, especially C++ and robotics. I'm trying to blog about it too (which is why this website exists).
+I am a researcher at Lawrence Berkeley National Laboratory (LBNL), a US
+Department of Energy research facility. Working alongside a team of hardware
+engineers and scientists, I develops and analyzes new parallel programming
+models for exascale and post-Moore architectures. Bryce is one of the
+developers of the HPX C++ runtime system.
 
-Some of my previous work includes:
+I spent five years working on HPX while at Louisiana State University's Center
+for Computation and Technology. I also helped start the LLVMLinux initiative,
+and has occasionally contributed to the Boost C++ libraries.
 
-  - Software engineer at [Marble](https://marble.io), bootstrapped infrastructure, CI, and robot navigation.
-  - developer on ROS/ROS 2 at the [Open Source Robotics Foundation](http://www.osrfoundation.org/).
-  - developer on [Gazebo](http://gazebosim.org/), the open source physics simulator for robotics
-  - [demos for the Baxter Research Robot](https://github.com/osrf/baxter_demos)
-  - research on time-dependent path planning at CMU Lunar XPrize lab ([poster]({{site.baseurl}}/assets/kay-poster-riss13.pdf))
+I am passionate about C++ community development: he is the Program Chair of the
+C++Now and CppCon conferences and he is an organizer of the Bay Area C++ user
+group. He serves as LBNL's representative to the ISO C++ standard committee. 
 
-Here's my CV as [a pdf]({{site.baseurl}}/assets/jackie-kay-cv.pdf).
-
-I graduated from Swarthmore College in 2014, where I played a lot of Ultimate Frisbee.
-
-Nobody calls me Jacqueline, except when they tag me on Github.
