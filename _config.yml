@@ -1,10 +1,10 @@
 # Site settings
-title: Jackie Kay
-email: jacquelinekay1@gmail.com
+title:  
+email: brycelelbach@gmail.com 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jackieokay.com" # the base hostname & protocol for your site
-github_username:  jacquelinekay
-twitter_username: jackayline
+url: "https://brycelelbach.github.io" # the base hostname & protocol for your site
+github_username:  brycelelbach
+twitter_username: blelbach
 
 # Build settings
 markdown: kramdown
